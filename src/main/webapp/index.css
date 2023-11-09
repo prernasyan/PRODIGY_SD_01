@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+body {
+	text-align: center;
+	background:
+		url("https://cdnl.iconscout.com/lottie/premium/thumb/high-temperature-5484373-4596727.gif");
+	background-repeat: no-repeat;
+	background-size: 600px 600px;
+}
+
+h1 {
+	font-size: 40px;
+	color: red;
+	margin-left: 580px;
+}
+
+form {
+	text-align: center;
+	border-color: orange;
+	border-width: 5px;
+	border-style: inset;
+	border-radius: 10px;
+	height: 300px;
+	width: 400px;
+	font-size: 22px;
+	padding-top: 30px;
+	margin-left: 700px;
+	background-image: url("1.jpg");
+	background-size: cover;
+}
